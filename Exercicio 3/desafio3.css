@@ -1,0 +1,57 @@
+body { 
+  background: black;
+  color: white;
+  font: 100% sans-serif;
+}
+.tudo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  color: white;
+}
+ul { 
+  display: flex; 
+  list-style:none; 
+  font-size: 400%; 
+  font-weight: 800; 
+  padding: 0; 
+  margin: 0;
+  flex-direction: row; 
+  flex-wrap: wrap; 
+  border: solid lime;
+  border-width: 0 5px;
+  min-width: 150px;
+  }
+li { 
+  width: 50%;
+  text-align: center;  
+}
+b {
+  font-size: 500%;
+  line-height: 2;
+  margin: 0 2%;
+ }
+
+/* estilos na página */
+h1 {
+  margin: 0;
+}
+#a {
+  display: inline-block;
+  background: green;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 130%;
+  border-radius: 8px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.bottom-line{
+  margin-top:25px;
+}
+/*FOOTER*/
+footer{
+  font-size:14px;
+}

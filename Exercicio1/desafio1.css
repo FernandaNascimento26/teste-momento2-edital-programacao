@@ -1,0 +1,96 @@
+body {
+    padding:20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom:15;
+  }
+  h2{
+    font-size: 18px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+    color: green;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+
+  hr{
+    border-width:5px;
+  height: 2px;
+  background-color:#025b23;
+  border-color:#025b23;
+  }
+  .bottom-line{
+    margin-top:25px;
+  }
+  /*FOOTER*/
+  footer{
+    font-size:14px;
+  }
+
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color:black;
+  }
+  
+  a:hover {
+    color:#12b84f;
+  }
+  
+  a:active {
+    color:#12b84f;
+  }
+  address{
+    margin-bottom:5px;
+  }
+  img{
+    display: block;
+    margin-top:-25px;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+  }
+
+  input {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+button {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  color: #dfdfe2;
+  background-color: #1b1b1d;
+  border-color: white;
+  min-width: 1em;
+}
+input[type="file"] {
+  padding:1px 2px;
+}
