@@ -21,4 +21,4 @@ Este PR contém os programas do momento 2 do edital 17/2022 da ESP.
 ### 🖥 Passos a passo para teste
 
 1. Baixar os diretórios
-2. Para testar cada desafio, bastar abrir o arquivo com extensão .html no navegador
+2. Para testar cada desafio, basta abrir o arquivo com extensão .html no navegador
